@@ -14,4 +14,3 @@ I decided to start this project because of the inconveniences such as file shari
 
 
 [![Hits](https://hits.sh/github.com/Someone-Alive/Bounce.svg?style=flat-square&label=Project%20Views)](https://hits.sh/github.com/Someone-Alive/Bounce/)
-[![Hits](https://hits.sh/google.com.svg?style=flat-square&label=Project%20Views)](https://hits.sh/google.com/)
