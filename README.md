@@ -7,7 +7,7 @@
 
 
 ## What is Bounce
-Bounce is a multiplatform file sharing app compatible with macOS, Windows, Android, and iOS. It is the first part of a project that I am making to help the Apple, Android, and Window users to communicate and easily work with each other while being in different ecosystems. Visit the specific operating system github pages for more information 
+Bounce is a easy to use multiplatform file sharing app compatible with macOS, Windows, Android, and iOS. It is the first part of a project that I am making to help the Apple, Android, and Window users to communicate and easily work with each other while being in different ecosystems. Visit the specific operating system github pages for more information 
 
 ## Why I started this project
 I decided to start this project because of the inconveniences such as file sharing I experianced while having a Macbook for a laptop but a Samsung for a phone. I want to make it easier for cross-platform users to share with each other
