@@ -13,7 +13,7 @@ Bounce is a easy to use multiplatform file sharing app compatible with macOS, Wi
 I decided to start this project because of the inconveniences such as file sharing I experianced while having a Macbook for a laptop but a Samsung for a phone. I want to make it easier for cross-platform users to share with each other
 
 ## Global Features
-- Connect to cross-platform and same-platform devices and send/recive files to/from the device
+- Connect to different and same-platform devices and send/recive files to/from that device
 - Similar UI for similar device platforms e.g. Android/iOS, Windows/macOS
 - Easy to use
 
