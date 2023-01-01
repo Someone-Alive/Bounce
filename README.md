@@ -1,4 +1,10 @@
-# Bounce
+<p align="center">
+<img src="https://i.ibb.co/d2ftBWZ/Untitled-1.png"><br>
+<img src="https://img.shields.io/badge/Global%20Version-v0.5.5-green?style=flat">
+<img src="https://img.shields.io/badge/Upcoming%20Version-v0.5.6-green?style=flat">
+<img src="https://img.shields.io/badge/Global%20App%20Status-Alpha-blue?style=flat">
+<p/>
+
 
 ## What is Bounce
 Bounce is a multiplatform file sharing app compatible with macOS, Windows, Android, and iOS. It is the first part of a project that I am making to help the Apple, Android, and Window users to communicate and easily work with each other while being in different ecosystems. Visit the specific operating system github pages for more information 
