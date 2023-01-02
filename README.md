@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.ibb.co/d2ftBWZ/Untitled-1.png"><br>
-<img src="https://img.shields.io/badge/Global%20Version-v0.5.5-green?style=flat">
-<img src="https://img.shields.io/badge/Upcoming%20Version-v0.5.6-green?style=flat">
+<!-- <img src="https://img.shields.io/badge/Global%20Version-v0.5.5-green?style=flat">
+<img src="https://img.shields.io/badge/Upcoming%20Version-v0.5.6-green?style=flat"> -->
 <img src="https://img.shields.io/badge/Global%20App%20Status-Alpha-blue?style=flat">
 <p/>
 
