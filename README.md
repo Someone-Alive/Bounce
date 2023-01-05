@@ -16,6 +16,7 @@ I decided to start this project because of the inconveniences such as file shari
 - Connect to different and same-platform devices and send/recive files to/from that device
 - Similar UI for similar device platforms e.g. Android/iOS, Windows/macOS
 - Easy to use
+- Connect to anyone almost anywhere around the world (if you have their id)
 
 ## Current Status for Operating systems support
 ![Macos](https://img.shields.io/badge/Finished-macOS-lightgrey?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMTRjMjYwIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZT0iIzE0YzI2MCI+PGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiPjwvZz48ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+PHBhdGggZD0iTTM1MS42MDUgNjYzLjI2OGw0ODEuNzYxLTQ4MS43NjFjMjguNjc3LTI4LjY3NyA3NS4xNzEtMjguNjc3IDEwMy44NDcgMHMyOC42NzcgNzUuMTcxIDAgMTAzLjg0N0w0NTUuNDUyIDc2Ny4xMTVsLjUzOS41MzktNTguNTkyIDU4LjU5MmMtMjQuOTk0IDI0Ljk5NC02NS41MTYgMjQuOTk0LTkwLjUxIDBMODUuNTA3IDYwNC44NjRjLTI4LjY3Ny0yOC42NzctMjguNjc3LTc1LjE3MSAwLTEwMy44NDdzNzUuMTcxLTI4LjY3NyAxMDMuODQ3IDBsMTYyLjI1IDE2Mi4yNXoiPjwvcGF0aD48L2c+PC9zdmc+)  
