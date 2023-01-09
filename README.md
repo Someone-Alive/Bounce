@@ -23,7 +23,9 @@ Bounce is an easy to use file sharing app compatible with macOS
 - x86 || x64 (Intel): Unknown
 
 ## IMPORTANT NOTES
-Please note that currently distributed app is not yet signed. This will cause a security alert to pop up on macOS. If you want to procced in using the application please follow the steps below.
+- No upload support for folders/directories yet
+- Please note that currently distributed app is not yet signed. This will cause a security alert to pop up on macOS. If you want to procced in using the application please follow the steps below.
+
 
 ## macOS
 ### macOS Ventura (13)
