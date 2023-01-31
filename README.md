@@ -7,7 +7,7 @@
 
 
 ## What is Bounce
-Bounce is an easy to use file sharing app compatible with macOS
+Bounce is an easy to use long distance file sharing app compatible with macOS
 
 ## Features
 - Connect to macOS devices and send/recive files to/from that device
